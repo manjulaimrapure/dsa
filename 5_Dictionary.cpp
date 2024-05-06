@@ -9,7 +9,7 @@ struct node
  char k[20];
  char m[20];
  node  *left;
- node * right;
+ node  *right;
 };
 
 class dict
